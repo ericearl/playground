@@ -1,3 +1,3 @@
 import script
 
-print('old one')
+print('new one')
